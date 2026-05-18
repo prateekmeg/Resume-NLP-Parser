@@ -14,7 +14,7 @@ In today's fast-paced recruiting landscape, time is of the essence. This Resume 
 - **Multiclass Classification**: To further assist recruiters, TF-IDF (Term Frequency-Inverse Document Frequency) and cosine similarity techniques are employed to build a multiclass classification model. This model ranks resumes based on their relevance to the job posting, ensuring that the most suitable candidates are prioritized.
 
 ## Dataset:
-[Dataset Available at:](https://drive.google.com/drive/folders/1KSU3PvxHXtX-NceVoUyGm1gUIEBG3Wbp?usp=sharing)
+[Dataset Available at:] (https://drive.google.com/drive/folders/1KSU3PvxHXtX-NceVoUyGm1gUIEBG3Wbp?usp=sharing)
 - **Dataset Overview:** Our training dataset comprises approximately 200 entries in pickle format ("Resume_train_data.pkl") and 300 resumes in CSV format ("UpdatedResumeDataSet.csv"). These datasets serve as the foundation for training our model.
 
 - **Training and Testing**: We use the pickle dataset to train our model, allowing it to learn from the labeled data. This trained model can then be applied to extract information from resumes in PDF or DOC format, facilitating result testing and resume parsing.
